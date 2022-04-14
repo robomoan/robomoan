@@ -13,14 +13,12 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-scikit learn-F7931E?logo=scikitlearn&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"></a></br>
 <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-R markdown-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-JARS-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Survival-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-ggplot2-276DC3?logo=R&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/-ggplot2-276DC3?logo=R&logoColor=white"></a></br>
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white"></a>
