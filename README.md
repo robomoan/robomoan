@@ -41,7 +41,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * 3.98/4.30 GPA
 
 #### MOOC
-* [SQL Fundamentals Track - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/9c0cb32f53f2ff4d55a4445577a5f3e371c80688)
+* [SQL Fundamentals Track - Datacamp](https://www.datacamp.com/statement-of-accomplishment/track/8388596e424cbb234a80b324754e5d65cd0ddfc7)
 * [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/1928/aws-cloud-practitioner-essentials-korean)
 * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
