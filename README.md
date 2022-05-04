@@ -69,3 +69,5 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * AWS Certification: Cloud Practitioner 취득
 * AWS SageMaker Workshop 실습
 * AWS EC2 및 SageMaker Notebook 에서 PostgreSQL 실행 실습
+* DB Execution plan 개념 공부
+* AWS Athena, Glue Workshop 실습
