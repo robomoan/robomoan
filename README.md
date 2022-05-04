@@ -16,16 +16,22 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"></a></br>
 <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-R markdown-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-JARS-276DC3?logo=R&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-JAGS-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Survival-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-ggplot2-276DC3?logo=R&logoColor=white"></a></br>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-SAS-04304B"></a>
 <img src="https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white"></a>
 
-* (추가)
+* WSL2에서 Ubuntu 설치 및 Ubuntu 위에서 Anaconda, R, FFmpeg 소스 컴파일을 이용한 설치 경험
+* Tensorflow2를 이용한 fashion MNIST 데이터셋 CNN 예측 모델 구축 경험
+* R에서 Survival 패키지를 이용한 생존자료분석 실습 경험
+* R에서 rjags 패키지를 이용한 Gibbs Sampler 모델 구축 경험
+* FFmpeg을 이용한 영상·음악 인코딩 경험 및 배치 파일 형식의 자체 인코더 제작 경험, 영상 데이터 크롤링 경험
+* 
 
 
 ### Education
@@ -53,7 +59,11 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
   * [발표 자료](https://github.com/robomoan/Data_Science_Study#readme)
 
 ### Projects
-
+* [파이썬으로 비례대표 의석 배분하기](https://robomoan.medium.com/파이썬으로-비례대표-의석-배분하기-9a05c107298f) - Numpy, Pandas, DataFrame
 
 ### Plans
-* 
+* Bash 기본 문법 공부
+* Hadoop 및 Hive 활용 공부
+* AWS Certification: Cloud Practitioner 취득
+* AWS SageMaker Workshop 실습
+* AWS EC2 및 SageMaker Notebook 에서 PostgreSQL 실행 실습
