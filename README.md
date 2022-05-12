@@ -27,6 +27,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 <img src="https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white"></a>
 
 * WSL2에서 Ubuntu 설치 및 Ubuntu 위에서 Anaconda, R, FFmpeg 소스 컴파일을 이용한 설치·실행 경험
+* AWS EC2 인스턴스 생성 및 Linux, Windows 환경에서 구동 경험
 * Tensorflow2를 이용한 fashion MNIST 데이터셋 CNN 예측 모델 구축 경험
 * R에서 Survival 패키지를 이용한 생존자료분석 실습 경험
 * R에서 rjags 패키지를 이용한 Gibbs Sampler 모델 구축 경험
