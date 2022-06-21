@@ -32,7 +32,6 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * R에서 Survival 패키지를 이용한 생존자료분석 실습 경험
 * R에서 rjags 패키지를 이용한 Gibbs Sampler 모델 구축 경험
 * FFmpeg을 이용한 영상·음악 인코딩 경험 및 배치 파일 형식의 자체 인코더 제작 경험, 영상 데이터 크롤링 경험
-* 
 
 
 ### Education
@@ -60,6 +59,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
   * [발표 자료](https://github.com/robomoan/Data_Science_Study#readme)
 
 ### Projects
+* [Classifying fashion MNIST data with CNN](https://github.com/robomoan/Data_Science_Study/blob/main/Projects/Project_CNN_fashionMNIST.ipynb) - Tensorflow, Keras
 * [파이썬으로 비례대표 의석 배분하기](https://robomoan.medium.com/파이썬으로-비례대표-의석-배분하기-9a05c107298f) - Numpy, Pandas, DataFrame
 
 ### Plans
