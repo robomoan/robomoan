@@ -11,6 +11,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-scikit learn-F7931E?logo=scikitlearn&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white"></a></br>
 <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-R markdown-276DC3?logo=R&logoColor=white"></a>
@@ -26,11 +27,9 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></a>
 
 * Windows에서 WSL2를 이용한 Ubuntu 개발 환경 구성 경험 - Pyenv, VS Code 
-* 현재 Ubuntu 22.04 Desktop 로컬에 설치 후 작업용 메인 OS로 사용 중
+* Ubuntu 22.04 Desktop 로컬에 설치 후 작업용 메인 OS로 사용
 * AWS EC2, GCP GCE 인스턴스 생성 및 Linux, Windows 환경에서 SSH key를 이용한 구동 경험
 * VS Code에서 Remote SSH 확장을 이용한 클라우드 인스턴스 개발 환경 구성 경험
 * Python 스크립트 내부에서 BigQuery 커넥터와 MySQL 커넥터를 이용해 테이블 SELECT, INSERT, UPDATE 경험
@@ -55,7 +54,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 
 ### Experience
 **[부스터스](https://boosters.kr/) - Data Engineer. Intern.**  
-* **2022.07.04 ~ 현재 진행 중**
+* **2022.07.04 ~ 2022.12.21**
 * Python, PHP, Google Compute Engine, BigQuery, MySQL, Apache Airflow, Tableau
 * ERP 도입을 위한 데이터 수집·정제 자동화 프로세스 개발
   * 온라인 유통채널(Cafe24, 쿠팡, 스마트스토어 등)의 주문, 정산내역 수집을 통한 Data Warehouse 구성 (크롤링, API)
@@ -91,4 +90,4 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * AWS Certification: Cloud Practitioner 취득
 * AWS Athena, Glue Workshop 실습
 * MySQL 구조 공부(Real MySQL 서적 n회독)
-* Rust 언어 익히기, 기존 Python 프로젝트를 Rust로 재현하기
+* Java 언어 익히기, 기존 Python 프로젝트를 Java로 재현하기
