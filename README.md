@@ -5,28 +5,27 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 
 ### Skills
 🛠️ Techs that I've used at least once:  
-<img src="https://img.shields.io/badge/Python-3766AB?&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pyenv-ECD53F?&logo=.env&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-scikit learn-F7931E?logo=scikitlearn&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white"></a></br>
-<img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-R markdown-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-JAGS-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Survival-276DC3?logo=R&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-ggplot2-276DC3?logo=R&logoColor=white"></a></br>
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white"></a></br>
-<img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visualstudiocode&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white"></a>
+![Python](https://img.shields.io/badge/Python-3766AB?&logo=Python&logoColor=white)
+![pyenv](https://img.shields.io/badge/pyenv-ECD53F?&logo=.env&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikitlearn&logoColor=white)
+
+![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
+
+[![LeetCode user robomoan](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frobomoan&logo=leetcode&logoColor=yellow)](https://leetcode.com/robomoan/)
 
 * Windows에서 WSL2를 이용한 Ubuntu 개발 환경 구성 경험 - Pyenv, VS Code 
 * Ubuntu 22.04 Desktop 로컬에 설치 후 작업용 메인 OS로 사용
@@ -35,7 +34,6 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * Python 스크립트 내부에서 BigQuery 커넥터와 MySQL 커넥터를 이용해 테이블 SELECT, INSERT, UPDATE 경험
 * Docker 컨테이너에서 MySQL 서버 구성 및 로컬 DBeaver에 MySQL 서버 연결 경험  
 * Git과 Github를 활용한 브랜치 분기 작업, pull request 경험
-* Tensorflow2를 이용한 fashion MNIST 데이터셋 CNN 예측 모델 구축 경험
 * OAuth2.0을 이용한 API 엑세스 토큰 발급 후 데이터 수집 활용 경험 (카페24, 네이버, Gmail)
 * Slack, Notion, Asana를 이용한 개발자·비개발자와의 협업 환경 경험
 
@@ -71,6 +69,7 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * [SQL Fundamentals Track - Datacamp](https://www.datacamp.com/statement-of-accomplishment/track/8388596e424cbb234a80b324754e5d65cd0ddfc7)
 * [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/1928/aws-cloud-practitioner-essentials-korean)
 * [BigQuery for Data Warehousing](https://www.cloudskillsboost.google/public_profiles/cc327932-1d09-48ae-9ff6-8daa643a2197/badges/2468019)
+* [Kubernetes for the Absolute Beginners](https://www.udemy.com/certificate/UC-1b5649be-1fc0-48be-b2f3-ce87cc3a3308/)
 
 #### Study 
 * Data science study group (2021.03. ~ 2021.10.)
