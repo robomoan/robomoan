@@ -7,7 +7,6 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 🛠️ Techs that I've used at least once:  
 ![Python](https://img.shields.io/badge/Python-3766AB?&logo=Python&logoColor=white)
 ![pyenv](https://img.shields.io/badge/pyenv-ECD53F?&logo=.env&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -23,16 +22,16 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Kubernetes&logoColor=white)
 
 [![LeetCode user robomoan](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frobomoan&logo=leetcode&logoColor=yellow)](https://leetcode.com/robomoan/)
 
-* Windows에서 WSL2를 이용한 Ubuntu 개발 환경 구성 경험 - Pyenv, VS Code 
-* Ubuntu 22.04 Desktop 로컬에 설치 후 작업용 메인 OS로 사용
-* AWS EC2, GCP GCE 인스턴스 생성 및 Linux, Windows 환경에서 SSH key를 이용한 구동 경험
-* VS Code에서 Remote SSH 확장을 이용한 클라우드 인스턴스 개발 환경 구성 경험
-* Python 스크립트 내부에서 BigQuery 커넥터와 MySQL 커넥터를 이용해 테이블 SELECT, INSERT, UPDATE 경험
-* Docker 컨테이너에서 MySQL 서버 구성 및 로컬 DBeaver에 MySQL 서버 연결 경험  
+* [WSL2, AWS EC2, GCP GCE 에서 Linux(Ubuntu, CentOS) 개발 환경 이용](https://robomoan.medium.com/list/environment-39bb7cc9d15b)
+* [ANSI SQL 쿼리; Table Join, Windows function, CTE 활용](https://robomoan.medium.com/list/sql-fundamentals-track-898df5742f28)
+* [Python에서 BigQuery 커넥터와 MySQL 커넥터를 이용해 테이블 생성, 쿼리문 작성](https://robomoan.medium.com/list/bigquery-b67857c6091b)
+* [Airflow 구성 및 Dag 구성](https://robomoan.medium.com/list/airflow-71d08e604fd7)
+* [Docker 컨테이너 구성, 외부 네트워크와 컨테이너 내부 통신](https://robomoan.medium.com/mysql-도커-컨테이너-설치-후-dbeaver-연결하기-cf945454cf1e)
+* [Kubernetes 클러스터에 오브젝트 구성(YAML), 배포, 롤 아웃 업데이트](https://robomoan.medium.com/list/kubernetes-840aa72e2c8b)
 * Git과 Github를 활용한 브랜치 분기 작업, pull request 경험
 * OAuth2.0을 이용한 API 엑세스 토큰 발급 후 데이터 수집 활용 경험 (카페24, 네이버, Gmail)
 * Slack, Notion, Asana를 이용한 개발자·비개발자와의 협업 환경 경험
@@ -83,10 +82,11 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 * [파이썬으로 비례대표 의석 배분하기](https://robomoan.medium.com/파이썬으로-비례대표-의석-배분하기-9a05c107298f) - Numpy, Pandas, DataFrame
 
 ### Plans
-* Docker, Kubernetes를 이용해 Airflow 구성요소별 컨테이너를 분리해서 빌드해보기
+* Airflow Kubernetes Executor 환경 빌드해보기
+* AWS Step Function 또는 GCP Cloud Function을 이용한 서버리스 데이터 파이프라인 구성하기
 * Pyspark 활용 공부
 * Hadoop 및 Hive 활용 공부
-* AWS Certification: Cloud Practitioner 취득
-* AWS Athena, Glue Workshop 실습
-* MySQL 구조 공부(Real MySQL 서적 n회독)
-* Java 언어 익히기, 기존 Python 프로젝트를 Java로 재현하기
+* 자격증 취득하기
+  * Certified Kubernetes Administrator
+  * AWS Certification: Solutions Architect
+* Github Actions CI/CD 프로젝트
