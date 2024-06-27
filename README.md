@@ -6,14 +6,13 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
 ### Skills
 🛠️ Techs that I've used at least once:  
 ![Python](https://img.shields.io/badge/Python-3766AB?&logo=Python&logoColor=white)
-![pyenv](https://img.shields.io/badge/pyenv-ECD53F?&logo=.env&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikitlearn&logoColor=white)
 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
@@ -57,7 +56,6 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
   * 온라인 유통채널(Cafe24, 쿠팡, 스마트스토어 등)의 주문, 정산내역 수집을 통한 Data Warehouse 구성 (크롤링, API)
   * Data Mart 구성을 위한 ETL 쿼리문 작성 (BigQuery, MySQL)
   * Airflow 설치, 백엔드 DB로 MySQL적용, DAG 구성
-    * Kubernetes Executor 활용의 어려움으로 워크플로 구성을 완성 짓지 못하고 시니어에게 이후 과정을 인계함.
   * Git, Github를 이용한 브랜치 분기 작업, Pull Request
   * 데이터 정합성을 위해 재무팀, 마케터들과 소통
 * 직원들의 니즈에 맞는 데이터 수집 및 시각화
@@ -77,16 +75,19 @@ LinkedIn: [linkedin.com/in/beomhwan](https://www.linkedin.com/in/beomhwan/)
   * 핸즈온 머신러닝 (오헬리앙 제롱)
   * [발표 자료](https://github.com/robomoan/Data_Science_Study#readme)
 
+### Certifications
+ * 사회조사분석사 2급(필기) - 한국산업인력공단
+ * SQLD - 한국데이터산업진흥원
+
 ### Projects
 * [Classifying fashion MNIST data with CNN](https://github.com/robomoan/Data_Science_Study/blob/main/Projects/Project_CNN_fashionMNIST.ipynb) - Tensorflow, Keras
 * [파이썬으로 비례대표 의석 배분하기](https://robomoan.medium.com/파이썬으로-비례대표-의석-배분하기-9a05c107298f) - Numpy, Pandas, DataFrame
 
 ### Plans
-* Airflow Kubernetes Executor 환경 빌드해보기
-* AWS Step Function 또는 GCP Cloud Function을 이용한 서버리스 데이터 파이프라인 구성하기
-* Pyspark 활용 공부
+* Airflow Kubernetes Executor 환경 빌드
+* AWS Step Function 또는 GCP Cloud Function을 이용한 서버리스 데이터 파이프라인 구성
 * Hadoop 및 Hive 활용 공부
-* 자격증 취득하기
+* 자격증 취득
   * Certified Kubernetes Administrator
   * AWS Certification: Solutions Architect
 * Github Actions CI/CD 프로젝트
